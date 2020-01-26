@@ -15,3 +15,11 @@ h1 {
   font-weight: bold;
   text-align: center;
 }
+
+a {
+  color: #1bb0ce;
+}
+
+a:hover {
+  color: #333;
+}
