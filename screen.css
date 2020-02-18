@@ -3,7 +3,8 @@ body {
   font-size: 1rem;
 }
 
-section {
+section,
+footer {
   margin: 0 auto;
   min-width: 320px;
   max-width: 640px;
@@ -22,4 +23,8 @@ a {
 
 a:hover {
   color: #333;
+}
+
+footer {
+  text-align: center;
 }
